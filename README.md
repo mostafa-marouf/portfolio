@@ -1,6 +1,4 @@
 
-Certainly! Here's a suggested description you can use for your GitHub profile:
-
 👋 Welcome to my GitHub profile! I'm Mostafa Marouf, a passionate web developer based in Egypt. I love crafting delightful user experiences and building innovative web applications using modern technologies.
 
 🚀 Currently, I'm exploring the latest trends in front-end development, diving deep into React.js, and honing my skills in CSS for creating beautiful and responsive designs.
